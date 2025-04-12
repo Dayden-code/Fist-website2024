@@ -290,13 +290,12 @@ aside {
     align-items: center;
     justify-content: center;
     text-align: center;
+    gap: 20px;
 }
 
 aside a img {
     width: 150px;
     height: auto;
-    margin: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.089);
     border-radius: 50%;
 }
 
