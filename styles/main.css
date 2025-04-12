@@ -293,10 +293,11 @@ aside {
     gap: 20px;
 }
 
-aside a img {
+aside a {
     width: 150px;
     height: auto;
     border-radius: 50%;
+    margin: 20px;
 }
 
 .CSS {
