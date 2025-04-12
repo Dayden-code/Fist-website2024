@@ -7,4 +7,5 @@ Ce premier essai comporte encore des défauts et un visuel à améliorer. Je le 
 
 Grâce à ce travail, j'ai pu en apprendre davantage et m'améliorer dans ce domaine.
 
+Je tiens à préciser que toutes images utilisées n'ont aucune fins commerciales et n'ont pour but que d'habiller un site débutant dans le cadre d'un simple travail d'entraînement.
 
