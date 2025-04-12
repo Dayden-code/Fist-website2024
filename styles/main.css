@@ -290,14 +290,6 @@ aside {
     align-items: center;
     justify-content: center;
     text-align: center;
-    gap: 20px;
-}
-
-aside a {
-    width: 150px;
-    height: auto;
-    border-radius: 50%;
-    margin: 20px;
 }
 
 .CSS {
