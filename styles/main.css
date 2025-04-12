@@ -292,7 +292,7 @@ aside {
     text-align: center;
 }
 
-aside h4 img {
+aside p img {
     width: 5rem;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.089);
     border-radius: 50%;
